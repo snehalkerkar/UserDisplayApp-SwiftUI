@@ -3,15 +3,15 @@
 SwiftUI App - User Display
 
 Design and development of User Display app Use API from here | https://reqres.in/ APIs 
-	1. User Registration |POST /api/register
-	2. User login | POST /api/login
-	3. Display User list | GET /api/users?page=1 4. Add User | POST /api/users 
+1. User Registration |POST /api/register
+2. User login | POST /api/login
+3. Display User list | GET /api/users?page=1
+4. Add User | POST /api/users 
 
 Screens Design 
 1. Login | As Per your imagination
 2. Registration | As Per your imagination
-3. Home page -> User list / Contact list | As Per Given UI Design 
-UI Design | https://cdn.dribbble.com/users/815433/screenshots/2517769/media/85a283f341d6e1e01b8f8a2d46c09979.png 
+3. Home page -> User list / Contact list | As Per Given UI Design UI Design https://cdn.dribbble.com/users/815433/screenshots/2517769/media/85a283f341d6e1e01b8f8a2d46c09979.png 
 
 Functionality 
 1. Login
